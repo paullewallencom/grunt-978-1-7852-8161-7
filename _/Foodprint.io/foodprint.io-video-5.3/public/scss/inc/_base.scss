@@ -1,0 +1,29 @@
+
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body{
+    font-family: Roboto;
+    font-size: 16px;
+}
+html body * {
+    font-family: Roboto;
+}
+a {
+    color : #3689B2;
+    text-decoration: none;
+    transition: opacity 0.3s ease;
+}
+a:hover, button:hover, input[type=button]:hover {
+    opacity: .8;
+    transition: opacity 0.4s ease;
+}
+
+abbr{
+    font-size: .9rem;
+    font-style: italic;
+}

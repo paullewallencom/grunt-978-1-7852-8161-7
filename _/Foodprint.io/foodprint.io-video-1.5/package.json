@@ -1,0 +1,14 @@
+{
+  "name": "foodprint.io",
+  "version": "0.1.0",
+  "description": "Take the control back on the food you ingest.",
+  "author": "Bertrand Chevrier <chevrier.bertrand@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-sass": "^1.1.0"
+  }
+}
